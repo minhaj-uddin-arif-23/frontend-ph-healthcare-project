@@ -1,5 +1,3 @@
-
-
 const HealthRecordPage = () => {
   return (
     <div>HealthRecordPage</div>
